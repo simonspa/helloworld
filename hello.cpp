@@ -1,6 +1,9 @@
-#include <iostream>
+#include <stdio.h>
+#include <vector>
+
+using namespace std;
 
 int main() {
-  std::cout << "Hello, world!" << std::endl;
+  printf("Hello, World\n");
   return 0;
 }
